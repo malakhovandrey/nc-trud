@@ -587,24 +587,24 @@
 }
 #u47 {
   position:absolute;
-  left:867px;
-  top:49px;
-  width:205px;
-  height:15px;
+  left:858px;
+  top:43px;
+  width:222px;
+  height:30px;
   font-size:12px;
-  text-align:right;
+  text-align:center;
 }
 #u47_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:205px;
-  height:15px;
+  width:222px;
+  height:30px;
 }
 #u48 {
   position:absolute;
   left:0px;
   top:0px;
-  width:205px;
-  white-space:nowrap;
+  width:222px;
+  word-wrap:break-word;
 }
